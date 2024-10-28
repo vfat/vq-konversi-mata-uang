@@ -1,0 +1,12 @@
+{
+  "name": "vq-konversi-mata-uang",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["currency", "formatting", "number", "konversi", "mata uang", "nodejs"],
+  "author": "Vicky Fatrian",
+  "license": "MIT",
+  "description": "Package untuk mengonversi angka menjadi format mata uang sesuai simbol yang diberikan."
+}
